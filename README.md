@@ -33,86 +33,58 @@
 
 <div align="center">
 
-<!-- Cloud Platforms -->
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"   alt="AWS" title="AWS" width="32"/>
-<img src="https://img.icons8.com/color/48/000000/microsoft-azure.png"        alt="Azure" title="Azure" width="32"/>
-<img src="https://img.icons8.com/color/48/000000/google-cloud.png"           alt="GCP" title="GCP" width="32"/>
-<img src="https://img.icons8.com/color/48/000000/digitalocean.png"            alt="DigitalOcean" title="DigitalOcean" width="32"/>
-<img src="https://img.icons8.com/color/48/000000/openstack.png"               alt="OpenStack" title="OpenStack" width="32"/>
+### ☁️ Cloud & Serverless
 
-<!-- Serverless & Functions -->
-<img src="https://img.icons8.com/color/48/000000/lambda.png"                  alt="AWS Lambda" title="AWS Lambda" width="32"/>
-<img src="https://img.icons8.com/color/48/000000/azure-functions.png"         alt="Azure Functions" title="Azure Functions" width="32"/>
-<img src="https://img.icons8.com/color/48/000000/google-cloud-functions.png"  alt="GCP Functions" title="GCP Cloud Functions" width="32"/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-E00000?style=flat&logo=openstack&logoColor=white)
 
-<!-- Containers & Orchestration -->
-<img src="https://img.icons8.com/fluency/48/docker.png"                      alt="Docker" title="Docker" width="32"/>
-<img src="https://img.icons8.com/color/48/kubernetes.png"                    alt="Kubernetes" title="Kubernetes" width="32"/>
-<img src="https://img.icons8.com/color/48/helm.png"                          alt="Helm" title="Helm" width="32"/>
-<img src="https://img.icons8.com/color/48/istio.png"                         alt="Istio" title="Istio" width="32"/>
-<img src="https://img.icons8.com/color/48/linkerd.png"                       alt="Linkerd" title="Linkerd" width="32"/>
-<img src="https://img.icons8.com/color/48/argocd.png"                        alt="ArgoCD" title="ArgoCD" width="32"/>
-<img src="https://img.icons8.com/color/48/flux.png"                          alt="FluxCD" title="FluxCD" width="32"/>
+### 🐳 Containers & Orchestration
 
-<!-- CI/CD & Version Control -->
-<img src="https://img.icons8.com/color/48/jenkins.png"                       alt="Jenkins" title="Jenkins" width="32"/>
-<img src="https://img.icons8.com/color/48/gitlab.png"                        alt="GitLab CI" title="GitLab CI" width="32"/>
-<img src="https://img.icons8.com/color/48/github-actions.png"                alt="GitHub Actions" title="GitHub Actions" width="32"/>
-<img src="https://img.icons8.com/color/48/circleci.png"                      alt="CircleCI" title="CircleCI" width="32"/>
-<img src="https://img.icons8.com/color/48/travis-ci.png"                     alt="Travis CI" title="Travis CI" width="32"/>
-<img src="https://img.icons8.com/color/48/azure-devops.png"                  alt="Azure DevOps" title="Azure DevOps" width="32"/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-0A0A0A?style=flat&logo=flux&logoColor=white)
 
-<!-- Infrastructure as Code -->
-<img src="https://img.icons8.com/color/48/terraform.png"                     alt="Terraform" title="Terraform" width="32"/>
-<img src="https://img.icons8.com/color/48/azure-resource-manager.png"        alt="ARM / Bicep" title="ARM / Bicep" width="32"/>
-<img src="https://img.icons8.com/color/48/aws-cloudformation.png"            alt="CloudFormation" title="CloudFormation" width="32"/>
-<img src="https://img.icons8.com/color/48/pulumi.png"                        alt="Pulumi" title="Pulumi" width="32"/>
-<img src="https://img.icons8.com/color/48/ansible.png"                       alt="Ansible" title="Ansible" width="32"/>
-<img src="https://img.icons8.com/color/48/chef.png"                          alt="Chef" title="Chef" width="32"/>
-<img src="https://img.icons8.com/color/48/puppet.png"                        alt="Puppet" title="Puppet" width="32"/>
+### 🔧 CI/CD & IaC
 
-<!-- Programming Languages & Frameworks -->
-<img src="https://img.icons8.com/color/48/python.png"                        alt="Python" title="Python" width="32"/>
-<img src="https://img.icons8.com/color/48/golang.png"                        alt="Go" title="Go" width="32"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"          alt="Java" title="Java" width="32"/>
-<img src="https://img.icons8.com/color/48/csharp.png"                        alt="C#" title="C#" width="32"/>
-<img src="https://img.icons8.com/color/48/javascript.png"                    alt="JavaScript" title="JavaScript" width="32"/>
-<img src="https://img.icons8.com/color/48/typescript.png"                    alt="TypeScript" title="TypeScript" width="32"/>
-<img src="https://img.icons8.com/color/48/react-native.png"                  alt="React" title="React" width="32"/>
-<img src="https://img.icons8.com/color/48/angularjs.png"                     alt="Angular" title="Angular" width="32"/>
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-512BD4?style=flat&logo=pulumi&logoColor=white)
 
-<!-- Databases & Storage -->
-<img src="https://img.icons8.com/color/48/postgreesql.png"                   alt="PostgreSQL" title="PostgreSQL" width="32"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png"                    alt="MySQL" title="MySQL" width="32"/>
-<img src="https://img.icons8.com/color/48/mongodb.png"                       alt="MongoDB" title="MongoDB" width="32"/>
-<img src="https://img.icons8.com/color/48/redis.png"                         alt="Redis" title="Redis" width="32"/>
-<img src="https://img.icons8.com/color/48/elasticsearch.png"                 alt="Elasticsearch" title="Elasticsearch" width="32"/>
-<img src="https://img.icons8.com/color/48/influxdb.png"                      alt="InfluxDB" title="InfluxDB" width="32"/>
-<img src="https://img.icons8.com/color/48/cassandra-logo.png"                alt="Cassandra" title="Cassandra" width="32"/>
-<img src="https://img.icons8.com/color/48/amazon-dynamodb.png"               alt="DynamoDB" title="DynamoDB" width="32"/>
+### 💻 Languages & Frameworks
 
-<!-- Observability & Logging -->
-<img src="https://img.icons8.com/color/48/prometheus.png"                    alt="Prometheus" title="Prometheus" width="32"/>
-<img src="https://img.icons8.com/color/48/grafana.png"                       alt="Grafana" title="Grafana" width="32"/>
-<img src="https://img.icons8.com/color/48/loki.png"                          alt="Loki" title="Loki" width="32"/>
-<img src="https://img.icons8.com/color/48/logstash.png"                      alt="Logstash" title="Logstash" width="32"/>
-<img src="https://img.icons8.com/color/48/kibana.png"                        alt="Kibana" title="Kibana" width="32"/>
-<img src="https://img.icons8.com/color/48/splunk.png"                        alt="Splunk" title="Splunk" width="32"/>
-<img src="https://img.icons8.com/color/48/jaeger.png"                        alt="Jaeger" title="Jaeger" width="32"/>
-<img src="https://img.icons8.com/color/48/zipkin.png"                        alt="Zipkin" title="Zipkin" width="32"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-<!-- Messaging & Streaming -->
-<img src="https://img.icons8.com/color/48/apache-kafka.png"                  alt="Kafka" title="Apache Kafka" width="32"/>
-<img src="https://img.icons8.com/color/48/rabbitmq.png"                      alt="RabbitMQ" title="RabbitMQ" width="32"/>
-<img src="https://img.icons8.com/color/48/nats.png"                          alt="NATS" title="NATS" width="32"/>
+### 🗄️ Databases
 
-<!-- Security & Networking -->
-<img src="https://img.icons8.com/color/48/vault.png"                         alt="HashiCorp Vault" title="HashiCorp Vault" width="32"/>
-<img src="https://img.icons8.com/color/48/keycloak.png"                      alt="Keycloak" title="Keycloak" width="32"/>
-<img src="https://img.icons8.com/color/48/cilium.png"                        alt="Cilium" title="Cilium" width="32"/>
-<img src="https://img.icons8.com/color/48/calico.png"                        alt="Calico" title="Calico" width="32"/>
-<img src="https://img.icons8.com/color/48/traefik.png"                       alt="Traefik" title="Traefik" width="32"/>
-<img src="https://img.icons8.com/color/48/nginx.png"                         alt="NGINX" title="NGINX" width="32"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+
+### 📊 Monitoring & Logging
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-000000?style=flat&logo=elasticstack&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-0C2233?style=flat&logo=grafana&logoColor=white)
 
 </div>
 
